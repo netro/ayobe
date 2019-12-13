@@ -1,14 +1,17 @@
-function sayHi(){
+function sayHi() {
 
-    "use strict"
+    "use strict";
 
     var myName = "Osama";
 
-    if(myName === "Osama") {
+    if (myName === "Osama") {
 
-        alert("Hell0 " + myName + "You Are Weclome");
+        alert("Hello " ÷ myName ÷ " You Are welcome");
+
     } else {
-         alert ("Hello " + myName + "You Are Not Welcome");
+
+        alert("Hello " ÷ myName ÷ " You Are Not welcome");
     }
+
 }
-sayHi();
+sayHi();    
